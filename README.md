@@ -15,6 +15,10 @@
 Welcome to my portfolio project centered on data analysis and visualization through Power BI. For this project, I extensively investigated global terrorism trends. Utilizing Power BI for analysis and visualization, my goal was to reveal significant patterns and derive actionable insights from data ranging from 1970 to 2017.
 This Power BI project focuses on analyzing global terrorism, offering a thorough overview of key trends and patterns spanning the past five decades. The report aims to assist researchers, policymakers, and stakeholders in comprehending terrorist activity trends, pinpointing hotspots, enhancing security measures, and promoting international collaboration to counter global threats.
 
+
+![taliban 4](https://github.com/OJO-MOSES/GLOBAL-TERRORISM-ANALYSIS/assets/113169345/784c02b6-52cb-41d7-bf89-f9e8e4977707)
+
+
 ### Data Source
 
 Global Terrorism Dataset: The primary dataset used for this analysis can be [Downloaded Here](https://drive.google.com/drive/folders/1ksh1AHfDVLInBmqNyOcHAxErdngnGRYc)
@@ -46,6 +50,12 @@ EDA involved exploring the global terrorism data to answer key questions, such a
 - Which group is the deadliest group?
 - Which year has the maximum attacks?
 
+  ![taliban 1](https://github.com/OJO-MOSES/GLOBAL-TERRORISM-ANALYSIS/assets/113169345/d9d28255-7cd7-4e57-81e0-db83714dfd6c)
+  
+
+![taliban 3](https://github.com/OJO-MOSES/GLOBAL-TERRORISM-ANALYSIS/assets/113169345/eddb009c-74a6-437f-a26d-8f41b4ce7c6a)
+
+
 ### Results and Findings
 
 1. Explosives has the highest success rate.
@@ -55,6 +65,9 @@ EDA involved exploring the global terrorism data to answer key questions, such a
 5. The most used weapon is explosives.
 6. Taliban is the deadliest group.
 7. 2017 is the year with the maximum attacks.
+
+   ![taliban 2](https://github.com/OJO-MOSES/GLOBAL-TERRORISM-ANALYSIS/assets/113169345/14d36cf3-c6a1-4290-bc18-1bb644d94127)
+
 
 ### Recommendations
 After analyzing the data, it is imperative for all concerned stakeholders to;
